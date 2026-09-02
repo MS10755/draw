@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="olsT1G6txT3kOvslPj7v">
+    <mxGraphModel dx="808" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVbUFQIzgO5R1Yd2mXlV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI 修改代码" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OVbUFQIzgO5R1Yd2mXlV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="更新注释" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="OVbUFQIzgO5R1Yd2mXlV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="找到关联文档" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OVbUFQIzgO5R1Yd2mXlV-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="修正文档" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
